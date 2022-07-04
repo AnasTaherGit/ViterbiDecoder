@@ -1,0 +1,2 @@
+bitarray==2.4.1
+numpy==1.20.1

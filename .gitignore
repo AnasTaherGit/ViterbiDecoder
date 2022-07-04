@@ -1,0 +1,5 @@
+#Ignoring python cache files
+__pycache__/
+build/
+#Ignore setting and environments folder
+.*/
